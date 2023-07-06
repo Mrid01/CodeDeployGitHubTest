@@ -1,0 +1,1 @@
+Testing deployment of application from github to ec2 using codedeploy.
